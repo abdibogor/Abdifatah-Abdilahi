@@ -1,0 +1,7 @@
+localhost/phpadmin
+create Database
+
+Name  Length 
+id 
+magac
+fure
